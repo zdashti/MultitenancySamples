@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MultiTenantApplication.Api/obj
+/.vs/MultiTenantApplication/FileContentIndex
+/MultiTenantApplication.Infrastructure/obj
+/MultiTenantApplication.Core/obj
+/MultiTenantApplication.Tests/bin/Debug/net6.0
+/MultiTenantApplication.Tests/obj
